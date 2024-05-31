@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.8
+Created-By: 11.0.22+7 (Eclipse Adoptium)
+Class-Path: lib/${libs.JDBCMySQL.classpath}
+Main-Class: NewJFrame
+
